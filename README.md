@@ -1,7 +1,9 @@
 # Cloud Workshop
 ================
 
-**UNDER CONSTRUCTION** This respository contains the collection of Microsoft Cloud Workshop (MCW) content. 
+**UNDER CONSTRUCTION** This respository contains the collection of Microsoft Cloud Workshop (MCW) content.  Each workshop is maintained in its own repository.  This repository contains the template for creating a new workshop and a pointer to the individual cloud workshop repositories.
+
+[workshop name](http://github.com/Microsoft/Cloud-Workshop)
 
 
 # Contributing
