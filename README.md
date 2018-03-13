@@ -3,8 +3,14 @@
 
 **UNDER CONSTRUCTION** This respository contains the collection of Microsoft Cloud Workshop (MCW) content.  Each workshop is maintained in its own repository.  This repository contains the template for creating a new workshop and a pointer to the individual cloud workshop repositories.   Each workshop is named 'mcw-workshop-topic
 
+Maintained Workshops
+--------------------
 - [Workshop Templates](https://github.com/Microsoft/Cloud-Workshop) - the template repository (this)
 - [Serverless Architecture](https://github.com/Microsoft/MCW-Serverless-Architecture)
+
+Contributed Content
+-------------------
+- [content name](https://www.github.com/name)
 
 
 # Contributing
