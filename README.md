@@ -1,4 +1,4 @@
-Link to [Download Template](https://github.com/Microsoft/MCW-Template-Cloud-Workshop/archive/master.zip)
+Link to [Download Template](https://github.com/Microsoft/MCW-Template-Cloud-Workshop/archive/master.zip) (replace URL)
 
 # Microsoft Cloud Workshop Template (replace with name)
 
