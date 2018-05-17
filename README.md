@@ -2,7 +2,7 @@ Link to: [Download Template](https://github.com/Microsoft/MCW-Template-Cloud-Wor
 
 # Microsoft Cloud Workshop Template
 
-**UNDER CONSTRUCTION** This respository is the template for Microsoft Cloud Workshop (MCW) content.  Each workshop is maintained in its own repository.  This repository contains the template for creating a new workshop and a pointer to the individual cloud workshop repositories. Each workshop is named 'MCW-workshop-topic-name`  and can be found in https://github.com/Microsoft/MCW-workshop-topic-name
+**UNDER CONSTRUCTION** This respository is the template for Microsoft Cloud Workshop (MCW) content.  Each workshop is maintained in its own repository.  This repository contains the template for creating a new workshop and a pointer to the individual cloud workshop repositories. Each workshop is named `MCW-workshop-topic-name`  and can be found in https://github.com/Microsoft/MCW-workshop-topic-name
 
 ## Maintained Workshops
 Here is the list of workshops currently being maintained, before creating a new workshop, determine if the work you would like to do is better captured as part of these workshops:
