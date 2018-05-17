@@ -22,5 +22,5 @@ Provide description of the overall workshop, the whiteboard design session and h
 ## Azure Solution
 - Name the solution(s) that this workshop is aligned with
 
-## Related Referances
+## Related References
 [MCW](https://github.com/Microsoft/MCW)
