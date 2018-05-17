@@ -1,27 +1,22 @@
 Link to: [Download Template](https://github.com/Microsoft/MCW-Template-Cloud-Workshop/archive/master.zip)
 
-# Microsoft Cloud Workshop
-==========================
+# Microsoft Cloud Workshop Template
 
-**UNDER CONSTRUCTION** This respository is the template for Microsoft Cloud Workshop (MCW) content.  Each workshop is maintained in its own repository.  This repository contains the template for creating a new workshop and a pointer to the individual cloud workshop repositories. Each workshop is named 'mcw-workshop-topic`
+**UNDER CONSTRUCTION** This respository is the template for Microsoft Cloud Workshop (MCW) content.  Each workshop is maintained in its own repository.  This repository contains the template for creating a new workshop and a pointer to the individual cloud workshop repositories. Each workshop is named 'MCW-workshop-topic-name`  and can be found in https://github.com/Microsoft/MCW-workshop-topic-name
 
 ## Maintained Workshops
+Here is the list of workshops currently being maintained, before creating a new workshop, determine if the work you would like to do is better captured as part of these workshops:
+
 - [Workshop Templates](https://github.com/Microsoft/MCW-Template-Cloud-Workshop) - the template repository (this)
 - [Serverless Architecture](https://github.com/Microsoft/MCW-Serverless-Architecture) [TODO: ADD THE LIST]
 
 ## Contributed Content
+Here is list of contributed content that is related to the Microsoft Cloud Workshop area, these may be similar content or forks of workshops that we want to make sure everyone is aware of: 
 - [content name](https://www.github.com/name)
 
-# Contributing
+This README.md file needs to be updated, the suggested headings are:
 
-This project welcomes contributions and suggestions.  Most contributions require you to agree to a
-Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
-the rights to use your contribution. For details, visit https://cla.microsoft.com.
+# workshop name
 
-When you submit a pull request, a CLA-bot will automatically determine whether you need to provide
-a CLA and decorate the PR appropriately (e.g., label, comment). Simply follow the instructions
-provided by the bot. You will only need to do this once across all repos using our CLA.
+# [TBD]
 
-This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
-For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or
-contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
