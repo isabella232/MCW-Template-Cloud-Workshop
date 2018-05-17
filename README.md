@@ -1,3 +1,5 @@
+Download Everything: [](https://github.com/Microsoft/MCW-Template-Cloud-Workshop/archive/master.zip)
+
 # Cloud Workshop
 ================
 
