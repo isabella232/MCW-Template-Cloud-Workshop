@@ -5,11 +5,11 @@ Link to [Download Template](https://github.com/Microsoft/MCW-Template-Cloud-Work
 
 ## Target audience
 *Please list the target audiance for this workshop. For example:*
-•	Application Developer
-•	Infrastructure Architect
-•	Database Administrator
-•	AI Developer
-•	Data Scientist
+-	Application Developer
+-	Infrastructure Architect
+-	Database Administrator
+-	AI Developer
+-	Data Scientist
 
 ## Abstract
 *Please provide descriptions of the overall workshop, the whiteboard design session and hands on lab. For example:*
@@ -31,10 +31,10 @@ At the end of this hands-on lab, you will be better able to [deliver, demonstrat
 
 ## Azure services and related products
 *Please list the services and products that are highlighted in the workshop. For example:*
-•	Azure SQL Data Warehouse
-•	Azure Data Factory
-•	Azure Analysis Services
-•	Azure Storage
+-	Azure SQL Data Warehouse
+-	Azure Data Factory
+-	Azure Analysis Services
+-	Azure Storage
 
 ## Azure hero solution
 *This is an internal reference and will be updated by project PM.*
