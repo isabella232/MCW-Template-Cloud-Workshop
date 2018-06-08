@@ -1,6 +1,6 @@
 Link to [Download Template](https://github.com/Microsoft/MCW-Template-Cloud-Workshop/archive/master.zip) (replace URL)
 
-# Microsoft Cloud Workshop template (replace with workshop name)
+# Microsoft Cloud Workshop template *(replace with workshop name)*
 *Please provide an introduction to the workshop. For example:*
 
 Trey Research Inc. looks at the old way of doing things in retail and introduces innovative experiences that delight customers and drive sales. There latest initiative focuses on intelligent vending machines that support commerce, engagement analytics, and intelligent promotions. 
