@@ -1,5 +1,3 @@
-Link to [Download Template](https://github.com/Microsoft/MCW-Template-Cloud-Workshop/archive/master.zip) (replace URL)
-
 # Microsoft Cloud Workshop template *(replace with workshop name)*
 *Please provide an introduction to the workshop. For example:*
 
@@ -38,8 +36,9 @@ At the end of this hands-on lab, you will be better able to [deliver, demonstrat
 -	Azure Analysis Services
 -	Azure Storage
 
-## Azure hero solution
+## Azure solutions
 *This is an internal reference and will be updated by project PM.*
 
 ## Related references
 *This should be a list of and links to prereqs, architectural diagrams, supporting docs, or briefing decks related to the material.* 
+- [MCW](https://github.com/Microsoft/MCW)
