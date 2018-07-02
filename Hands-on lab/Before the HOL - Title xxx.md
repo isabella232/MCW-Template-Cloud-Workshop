@@ -63,5 +63,5 @@ Duration: X minutes
 
         i.  
 
-You should follow all steps provided *before* attending the Hands-on lab.
+You should follow all steps provided *before* performing the Hands-on lab.
 
