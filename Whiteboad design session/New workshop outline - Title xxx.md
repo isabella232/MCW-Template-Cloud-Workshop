@@ -43,7 +43,7 @@ In this workshop, you will look at the process of migrating an on-premises data 
 
 At the end of this workshop, you will be better able to \[deliver, demonstrate, solve, present, migrate, build, design, architect, construct, modify\] ....
 
-Whiteboard design session *(this will go in the readme and in the WDS document)*
+### Whiteboard design session *(this will go in the readme and in the WDS document)*
 
 In this whiteboard design session, you will work in a group to look at the process of migrating an on-premises data warehouse to Azure SQL Data Warehouse. The design session will cover planning for a data warehouse migration, data and schema preparation, data loading, optimizing the data distribution, and building a solution to support ad-hoc queries.
 
