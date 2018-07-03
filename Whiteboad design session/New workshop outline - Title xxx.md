@@ -1,4 +1,4 @@
-Insert workshop title here
+# [Insert workshop title here]
 
 Outline
 
