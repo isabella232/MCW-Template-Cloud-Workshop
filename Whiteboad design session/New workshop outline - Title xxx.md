@@ -1,8 +1,16 @@
-# [Insert workshop title here]
+![](https://github.com/Microsoft/MCW-Template-Cloud-Workshop/raw/master/Media/ms-cloud-workshop.png "Microsoft Cloud Workshops")
 
-Outline
+<div class="MCWHeader1">
+[Insert workshop name here]
+</div>
 
-\[Insert date here\]
+<div class="MCWHeader2">
+New workshop outline
+</div>
+
+<div class="MCWHeader3">
+[Insert date here Month Year]
+</div>
 
 ## \[Insert workshop title here\] outline
 
