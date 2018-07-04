@@ -103,9 +103,9 @@ insert your custom Hands-on lab content here . . .
 
 -   Insert your custom workshop content here . . .
 
-    b.  Insert content here
+    a.  Insert content here
 
-        ii. 
+        i. 
 
 ### Task 2: Task name
 
@@ -113,17 +113,17 @@ insert your custom Hands-on lab content here . . .
 
 -   Insert your custom workshop content here . . .
 
-    c.  Insert content here
+    a.  Insert content here
 
-        iii. 
+        i. 
 
 #### Exit criteria
 
 -   Insert your custom workshop content here . . .
 
-    d.  Insert content here
+    a.  Insert content here
 
-        iv. 
+        i. 
 
 ## Exercise 2: Exercise name
 
@@ -137,9 +137,9 @@ insert your custom Hands-on lab content here . . .
 
 -   Insert your custom workshop content here . . .
 
-    e.  Insert content here
+    a.  Insert content here
 
-        v.  
+        i. 
 
 #### Exit criteria
 
@@ -155,17 +155,17 @@ insert your custom Hands-on lab content here . . .
 
 -   Insert your custom workshop content here . . .
 
-    g.  Insert content here
+    a.  Insert content here
 
-        vii. 
+        i. 
 
 #### Exit criteria
 
 -   Insert your custom workshop content here . . .
 
-    h.  Insert content here
+    a.  Insert content here
 
-        viii. 
+        i. 
 
 ## Exercise 3: Exercise name
 
@@ -179,17 +179,17 @@ insert your custom Hands-on lab content here . . .
 
 -   Insert your custom workshop content here . . .
 
-    i.  Insert content here
+    a.  Insert content here
 
-        ix. 
+        i. 
 
 #### Exit criteria
 
 -   Insert your custom workshop content here . . .
 
-    j.  Insert content here
+    a.  Insert content here
 
-        x.  
+        i. 
 
 ### Task 2: Task name
 
@@ -197,17 +197,17 @@ insert your custom Hands-on lab content here . . .
 
 -   Insert your custom workshop content here . . .
 
-    k.  Insert content here
+    a.  Insert content here
 
-        xi. 
+        i. 
 
 #### Exit criteria
 
 -   Insert your custom workshop content here . . .
 
-    l.  Insert content here
+    a.  Insert content here
 
-        xii. 
+        i. 
 
 ## After the hands-on lab 
 
@@ -221,7 +221,7 @@ insert your custom Hands-on lab content here . . .
 
     a.  Insert content here
 
-        i.  
+        i. 
 
 ### Task 2: Task name
 
