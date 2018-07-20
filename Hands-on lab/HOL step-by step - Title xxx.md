@@ -162,5 +162,5 @@ Duration: X minutes
 
         i.  
 
-You should follow all steps provided *after* attending the Hands-on lab.
+>Note:  You should follow all steps provided *after* attending the Hands-on lab.
 
