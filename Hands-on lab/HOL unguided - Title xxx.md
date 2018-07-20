@@ -1,4 +1,4 @@
-![](https://github.com/Microsoft/MCW-Template-Cloud-Workshop/raw/master/Media/ms-cloud-workshop.png "Microsoft Cloud Workshops")
+![Microsoft Cloud Workshop](https://github.com/Microsoft/MCW-Template-Cloud-Workshop/raw/master/Media/ms-cloud-workshop.png "Microsoft Cloud Workshops")
 
 <div class="MCWHeader1">
 [Insert workshop name here]
@@ -29,7 +29,7 @@ Microsoft and the trademarks listed at <https://www.microsoft.com/en-us/legal/in
 - [\[insert workshop name here\] hands-on lab unguided](#\insert-workshop-name-here\-hands-on-lab-unguided)
     - [Abstract and learning objectives](#abstract-and-learning-objectives)
     - [Overview](#overview)
-    - [Solution Architecture](#solution-architecture)
+    - [Solution architecture](#solution-architecture)
     - [Requirements](#requirements)
     - [Before the hands-on lab](#before-the-hands-on-lab)
     - [Exercise 1: Exercise name](#exercise-1-exercise-name)
@@ -69,7 +69,7 @@ Insert what is trying to be solved for by using this workshop. . .
 
 insert your custom workshop content here . . .
 
-## Solution Architecture
+## Solution architecture
 
 Insert your end-solution architecture here. . .
 
@@ -95,17 +95,17 @@ insert your custom Hands-on lab content here . . .
 
 -   Insert your custom workshop content here . . .
 
-    a.  Insert content here
-
-        i.  
+    -   Insert content here
+    
+        -   Insert content here
 
 #### Exit criteria
 
 -   Insert your custom workshop content here . . .
 
-    a.  Insert content here
-
-        i. 
+    -   Insert content here
+    
+        -   Insert content here
 
 ### Task 2: Task name
 
@@ -113,17 +113,17 @@ insert your custom Hands-on lab content here . . .
 
 -   Insert your custom workshop content here . . .
 
-    a.  Insert content here
-
-        i. 
+    -   Insert content here
+    
+        -   Insert content here
 
 #### Exit criteria
 
 -   Insert your custom workshop content here . . .
 
-    a.  Insert content here
-
-        i. 
+    -   Insert content here
+    
+        -   Insert content here
 
 ## Exercise 2: Exercise name
 
@@ -137,17 +137,16 @@ insert your custom Hands-on lab content here . . .
 
 -   Insert your custom workshop content here . . .
 
-    a.  Insert content here
-
-        i. 
+    -   Insert content here
+    
+        -   Insert content here
 
 #### Exit criteria
-
 -   Insert your custom workshop content here . . .
 
-    f.  Insert content here
-
-        vi. 
+    -   Insert content here
+    
+        -   Insert content here
 
 ### Task 2: Task name
 
@@ -155,17 +154,17 @@ insert your custom Hands-on lab content here . . .
 
 -   Insert your custom workshop content here . . .
 
-    a.  Insert content here
-
-        i. 
+    -   Insert content here
+    
+        -   Insert content here
 
 #### Exit criteria
 
 -   Insert your custom workshop content here . . .
 
-    a.  Insert content here
-
-        i. 
+    -   Insert content here
+    
+        -   Insert content here
 
 ## Exercise 3: Exercise name
 
@@ -179,17 +178,17 @@ insert your custom Hands-on lab content here . . .
 
 -   Insert your custom workshop content here . . .
 
-    a.  Insert content here
-
-        i. 
+    -   Insert content here
+    
+        -   Insert content here
 
 #### Exit criteria
 
 -   Insert your custom workshop content here . . .
 
-    a.  Insert content here
-
-        i. 
+    -   Insert content here
+    
+        -   Insert content here
 
 ### Task 2: Task name
 
@@ -197,39 +196,39 @@ insert your custom Hands-on lab content here . . .
 
 -   Insert your custom workshop content here . . .
 
-    a.  Insert content here
-
-        i. 
+    -   Insert content here
+    
+        -   Insert content here
 
 #### Exit criteria
 
 -   Insert your custom workshop content here . . .
 
-    a.  Insert content here
-
-        i. 
+    -   Insert content here
+    
+        -   Insert content here
 
 ## After the hands-on lab 
 
 Duration: X minutes
 
-insert your custom Hands-on lab content here . . .
+-   Insert your custom Hands-on lab content here . . .
 
 ### Task 1: Task name
 
-1.  Number and insert your custom workshop content here . . .
+-   Insert your custom workshop content here . . .
 
-    a.  Insert content here
-
-        i. 
+    -   Insert content here
+    
+        -   Insert content here
 
 ### Task 2: Task name
 
-1.  Number and insert your custom workshop content here . . .
+-   Insert your custom workshop content here . . .
 
-    a.  Insert content here
+    -   Insert content here
+    
+        -   Insert content here
 
-        i.  
-
-You should follow all steps provided *after* attending the Hands-on lab.
+>Note:  You should follow all steps provided *after* attending the Hands-on lab.
 
