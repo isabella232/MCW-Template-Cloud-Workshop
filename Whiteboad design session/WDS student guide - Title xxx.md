@@ -1,5 +1,5 @@
 
-![](https://github.com/Microsoft/MCW-Template-Cloud-Workshop/raw/master/Media/ms-cloud-workshop.png "Microsoft Cloud Workshops")
+![Microsoft Cloud Workshops](https://github.com/Microsoft/MCW-Template-Cloud-Workshop/raw/master/Media/ms-cloud-workshop.png "Microsoft Cloud Workshops")
 
 <div class="MCWHeader1">
 [Insert workshop name here]
@@ -54,13 +54,13 @@ Microsoft and the trademarks listed at <https://www.microsoft.com/en-us/legal/in
 
 Analyze your customer's needs.
 
-Time frame: 15 minutes
+Timeframe: 15 minutes
 
 Directions: With all participants in the session, the facilitator/SME presents an overview of the customer case study along with technical tips.
 
 1.  Meet your table participants and trainer
 
-2.  Read all of the directions for steps 1--3 in the student guide
+2.  Read all of the directions for steps 1-3 in the student guide
 
 3.  As a table team, review the following customer case study
 
@@ -94,11 +94,11 @@ Directions: With all participants in the session, the facilitator/SME presents a
 
 Design a solution and prepare to present the solution to the target customer audience in a 15-minute chalk-talk format.
 
-Time frame: 60 minutes
+Timeframe: 60 minutes
 
 **Business needs**
 
-Directions: With all participants at your table, answer the following questions and list the answers on a flip chart.
+Directions:  With all participants at your table, answer the following questions and list the answers on a flip chart:
 
 1.  Who should you present this solution to? Who is your target customer audience? Who are the decision makers?
 
@@ -106,7 +106,7 @@ Directions: With all participants at your table, answer the following questions 
 
 **Design**
 
-Directions: With all participants at your table, respond to the following questions on a flip chart.
+Directions: With all participants at your table, respond to the following questions on a flip chart:
 
 *Title*
 
@@ -120,11 +120,11 @@ Directions: With all participants at your table, respond to the following questi
 
 Directions: With all participants at your table:
 
-1.  Identify any customer needs that are not addressed with the proposed solution.
+1.  Identify any customer needs that are not addressed with the proposed solution
 
-2.  Identify the benefits of your solution.
+2.  Identify the benefits of your solution
 
-3.  Determine how you will respond to the customer's objections.
+3.  Determine how you will respond to the customer's objections
 
 Prepare a 15-minute chalk-talk style presentation to the customer.
 
@@ -134,29 +134,29 @@ Prepare a 15-minute chalk-talk style presentation to the customer.
 
 Present a solution to the target customer audience in a 15-minute chalk-talk format.
 
-Time frame: 30 minutes
+Timeframe: 30 minutes
 
 **Presentation**
 
 Directions:
 
-1.  Pair with another table.
+1.  Pair with another table
 
-2.  One table is the Microsoft team and the other table is the customer.
+2.  One table is the Microsoft team and the other table is the customer
 
-3.  The Microsoft team presents their proposed solution to the customer.
+3.  The Microsoft team presents their proposed solution to the customer
 
-4.  The customer makes one of the objections from the list of objections.
+4.  The customer makes one of the objections from the list of objections
 
-5.  The Microsoft team responds to the objection.
+5.  The Microsoft team responds to the objection
 
-6.  The customer team gives feedback to the Microsoft team.
+6.  The customer team gives feedback to the Microsoft team
 
-7.  Tables switch roles and repeat Steps 2--6.
+7.  Tables switch roles and repeat Steps 2-6.
 
 ##  Wrap-up 
 
-Time frame: 15 minutes
+Timeframe: 15 minutes
 
 Directions: Tables reconvene with the larger group to hear the facilitator/SME share the preferred solution for the case study.
 
