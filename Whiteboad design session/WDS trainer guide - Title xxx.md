@@ -182,11 +182,11 @@ Analyze your customer's needs.
 
 Timeframe: 15 minutes
 
-Directions: With all participants in the session, the facilitator/SME presents an overview of the customer case study along with technical tips.
+Directions:  With all participants in the session, the facilitator/SME presents an overview of the customer case study along with technical tips.
 
 1.  Meet your table participants and trainer
 
-2.  Read all of the directions for steps 1--3 in the student guide
+2.  Read all of the directions for steps 1-3 in the student guide
 
 3.  As a table team, review the following customer case study
 
@@ -224,7 +224,7 @@ Timeframe: 60 minutes
 
 **Business needs**
 
-Directions: With all participants at your table, answer the following questions and list the answers on a flip chart.
+Directions: With all participants at your table, answer the following questions and list the answers on a flip chart:
 
 1.  Who should you present this solution to? Who is your target customer audience? Who are the decision makers?
 
@@ -232,7 +232,7 @@ Directions: With all participants at your table, answer the following questions 
 
 **Design**
 
-Directions: With all participants at your table, respond to the following questions on a flip chart.
+Directions: With all participants at your table, respond to the following questions on a flip chart:
 
 *Title*
 
