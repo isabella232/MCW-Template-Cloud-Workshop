@@ -67,7 +67,7 @@ Insert what is trying to be solved for by using this workshop. . .
 
 ## Overview
 
-insert your custom workshop content here . . .
+Insert your custom workshop content here . . .
 
 ## Solution architecture
 
@@ -87,7 +87,7 @@ To author: remove this section if you do not require environment setup instructi
 
 Duration: X minutes
 
-insert your custom Hands-on lab content here . . .
+Insert your custom Hands-on lab content here . . .
 
 ### Task 1: Task name
 
@@ -129,7 +129,7 @@ insert your custom Hands-on lab content here . . .
 
 Duration: X minutes
 
-insert your custom Hands-on lab content here . . .
+Insert your custom Hands-on lab content here . . .
 
 ### Task 1: Task name
 
@@ -170,7 +170,7 @@ insert your custom Hands-on lab content here . . .
 
 Duration: X minutes
 
-insert your custom Hands-on lab content here . . .
+Insert your custom Hands-on lab content here . . .
 
 ### Task 1: Task name
 
@@ -212,7 +212,7 @@ insert your custom Hands-on lab content here . . .
 
 Duration: X minutes
 
--   Insert your custom Hands-on lab content here . . .
+Insert your custom Hands-on lab content here . . .
 
 ### Task 1: Task name
 
