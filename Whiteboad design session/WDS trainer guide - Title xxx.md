@@ -190,7 +190,6 @@ Directions:  With all participants in the session, the facilitator/SME presents 
 
 3.  As a table team, review the following customer case study
 
-
 ### Customer situation
 
 \[insert your custom workshop content here . . . \]
@@ -238,7 +237,7 @@ Directions: With all participants at your table, respond to the following questi
 
 1.  Number and insert questions here
 
-    *Title*
+*Title*
 
 1.  Number and insert questions here
 
@@ -336,7 +335,7 @@ Directions: Tables reconvene with the larger group to hear the facilitator/SME s
 
 ## Wrap-up
 
-Directions:  Have the table participants reconvene with the larger session group to hear the facilitator/SME share the following preferred solution.
+-   Have the table participants reconvene with the larger session group to hear the facilitator/SME share the following preferred solution.
 
 ##  Preferred target audience
 
@@ -350,7 +349,7 @@ Directions:  Have the table participants reconvene with the larger session group
 
 1.  Number and insert questions and answers here
 
-    *Title*
+*Title*
 
 1.  Number and insert questions and answers here
 
