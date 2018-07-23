@@ -161,6 +161,5 @@ Duration: X minutes
     a.  Insert content here
 
         i.  
-
->Note:  You should follow all steps provided *after* attending the Hands-on lab.
+You should follow all steps provided *after* attending the Hands-on lab.
 
