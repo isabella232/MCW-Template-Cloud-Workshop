@@ -1,4 +1,3 @@
-
 ![](https://github.com/Microsoft/MCW-Template-Cloud-Workshop/raw/master/Media/ms-cloud-workshop.png "Microsoft Cloud Workshops")
 
 <div class="MCWHeader1">
@@ -90,7 +89,9 @@ Each whiteboard design session uses the following flow:
 
 **Step 1: Review the customer case study (15 minutes)**
 
-Outcome: Analyze your customer's needs
+**Outcome**
+
+Analyze your customer's needs.
 
 -   Customer's background, situation, needs and technical requirements
 
@@ -100,7 +101,9 @@ Outcome: Analyze your customer's needs
 
 **Step 2: Design a proof of concept solution (60 minutes)**
 
-Outcome: Design a solution and prepare to present the solution to the target customer audience in a 15-minute chalk-talk format
+**Outcome**
+
+Design a solution and prepare to present the solution to the target customer audience in a 15-minute chalk-talk format.
 
 -   Determine your target customer audience
 
@@ -112,7 +115,9 @@ Outcome: Design a solution and prepare to present the solution to the target cus
 
 **Step 3: Present the solution (30 minutes)**
 
-Outcome: Present solution to your customer
+**Outcome**
+
+Present solution to your customer.
 
 -   Present solution
 
@@ -146,7 +151,7 @@ Before conducting your first whiteboard design session:
 
 When participants are doing activities, you can **look ahead to refresh your memory**.
 
--   **Adjust activity and whiteboard design session pace** as needed to allow time for presenting, feedback, and sharing.
+-   **Adjust activity and whiteboard design session pace** as needed to allow time for presenting, feedback, and sharing
 
 -   **Add examples, points, and stories** from your own experience. Think about stories you can share that help you make your points clearly and effectively.
 
@@ -176,14 +181,13 @@ Analyze your customer's needs.
 
 Timeframe: 15 minutes
 
-Directions: With all participants in the session, the facilitator/SME presents an overview of the customer case study along with technical tips.
+Directions:  With all participants in the session, the facilitator/SME presents an overview of the customer case study along with technical tips.
 
 1.  Meet your table participants and trainer
 
-2.  Read all of the directions for steps 1--3 in the student guide
+2.  Read all of the directions for steps 1-3 in the student guide
 
 3.  As a table team, review the following customer case study
-
 
 ### Customer situation
 
@@ -214,11 +218,11 @@ Directions: With all participants in the session, the facilitator/SME presents a
 
 Design a solution and prepare to present the solution to the target customer audience in a 15-minute chalk-talk format.
 
-Time frame: 60 minutes
+Timeframe: 60 minutes
 
 **Business needs**
 
-Directions: With all participants at your table, answer the following questions and list the answers on a flip chart.
+Directions: With all participants at your table, answer the following questions and list the answers on a flip chart:
 
 1.  Who should you present this solution to? Who is your target customer audience? Who are the decision makers?
 
@@ -226,13 +230,13 @@ Directions: With all participants at your table, answer the following questions 
 
 **Design**
 
-Directions: With all participants at your table, respond to the following questions on a flip chart.
+Directions: With all participants at your table, respond to the following questions on a flip chart:
 
 *Title*
 
 1.  Number and insert questions here
 
-    *Title*
+*Title*
 
 1.  Number and insert questions here
 
@@ -240,11 +244,11 @@ Directions: With all participants at your table, respond to the following questi
 
 Directions: With all participants at your table:
 
-1.  Identify any customer needs that are not addressed with the proposed solution.
+1.  Identify any customer needs that are not addressed with the proposed solution
 
-2.  Identify the benefits of your solution.
+2.  Identify the benefits of your solution
 
-3.  Determine how you will respond to the customer's objections.
+3.  Determine how you will respond to the customer's objections
 
 Prepare a 15-minute chalk-talk style presentation to the customer.
 
@@ -254,7 +258,7 @@ Prepare a 15-minute chalk-talk style presentation to the customer.
 
 Present a solution to the target customer audience in a 15-minute chalk-talk format.
 
-Time frame: 30 minutes
+Timeframe: 30 minutes
 
 **Presentation**
 
@@ -272,11 +276,11 @@ Directions:
 
 6.  The customer team gives feedback to the Microsoft team
 
-7.  Tables switch roles and repeat Steps 2--6
+7.  Tables switch roles and repeat Steps 2-6
 
 ##  Wrap-up 
 
-Time frame: 15 minutes
+Timeframe: 15 minutes
 
 Directions: Tables reconvene with the larger group to hear the facilitator/SME share the preferred solution for the case study.
 
@@ -300,7 +304,7 @@ Directions: Tables reconvene with the larger group to hear the facilitator/SME s
 
 -   Briefly review the steps and timeframes of the whiteboard design session
 
--   Ready, set, go! Let the table participants begin
+-   Ready, set, go! Let the table participants begin.
 
 ## Step 2: Design a proof of concept solution
 
@@ -330,7 +334,7 @@ Directions: Tables reconvene with the larger group to hear the facilitator/SME s
 
 ## Wrap-up
 
--   Have the table participants reconvene with the larger session group to hear the facilitator/SME share the following preferred solution
+-   Have the table participants reconvene with the larger session group to hear the facilitator/SME share the following preferred solution.
 
 ##  Preferred target audience
 
@@ -344,15 +348,14 @@ Directions: Tables reconvene with the larger group to hear the facilitator/SME s
 
 1.  Number and insert questions and answers here
 
-    *Title*
+*Title*
 
 1.  Number and insert questions and answers here
 
 ## Checklist of preferred objection handling
 
 \[insert your custom workshop content here . . . \]
-
--   
+ 
 
 ## Customer quote (to be read back to the attendees at the end)
 
