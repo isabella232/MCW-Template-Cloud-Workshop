@@ -230,5 +230,5 @@ Insert your custom Hands-on lab content here . . .
     
         -   Insert content here
 
->Note:  You should follow all steps provided *after* attending the Hands-on lab.
+You should follow all steps provided *after* attending the Hands-on lab.
 
