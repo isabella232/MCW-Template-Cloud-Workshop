@@ -88,6 +88,7 @@ Directions: With all participants in the session, the facilitator/SME presents a
 \[insert your custom workshop content here . . . \]
 
 ## Step 2: Design a proof of concept solution
+
 **Outcome**
 
 Design a solution and prepare to present the solution to the target customer audience in a 15-minute chalk-talk format.
