@@ -57,11 +57,11 @@ Timeframe: 15 minutes
 
 Directions: With all participants in the session, the facilitator/SME presents an overview of the customer case study along with technical tips.
 
-1.  Meet your table participants and trainer
+1.  Meet your table participants and trainer.
 
-2.  Read all of the directions for steps 1-3 in the student guide
+2.  Read all of the directions for steps 1-3 in the student guide.
 
-3.  As a table team, review the following customer case study
+3.  As a table team, review the following customer case study.
 
 
 ### Customer situation
@@ -119,11 +119,11 @@ Directions: With all participants at your table, respond to the following questi
 
 Directions: With all participants at your table:
 
-1.  Identify any customer needs that are not addressed with the proposed solution
+1.  Identify any customer needs that are not addressed with the proposed solution.
 
-2.  Identify the benefits of your solution
+2.  Identify the benefits of your solution.
 
-3.  Determine how you will respond to the customer's objections
+3.  Determine how you will respond to the customer's objections.
 
 Prepare a 15-minute chalk-talk style presentation to the customer.
 
@@ -139,19 +139,19 @@ Timeframe: 30 minutes
 
 Directions:
 
-1.  Pair with another table
+1.  Pair with another table.
 
-2.  One table is the Microsoft team and the other table is the customer
+2.  One table is the Microsoft team and the other table is the customer.
 
-3.  The Microsoft team presents their proposed solution to the customer
+3.  The Microsoft team presents their proposed solution to the customer.
 
-4.  The customer makes one of the objections from the list of objections
+4.  The customer makes one of the objections from the list of objections.
 
-5.  The Microsoft team responds to the objection
+5.  The Microsoft team responds to the objection.
 
-6.  The customer team gives feedback to the Microsoft team
+6.  The customer team gives feedback to the Microsoft team.
 
-7.  Tables switch roles and repeat Steps 2-6
+7.  Tables switch roles and repeat Steps 2-6.
 
 ##  Wrap-up 
 
