@@ -3,6 +3,8 @@
 
 Trey Research Inc. looks at the old way of doing things in retail and introduces innovative experiences that delight customers and drive sales. Their latest initiative focuses on intelligent vending machines that support commerce, engagement analytics, and intelligent promotions. 
 
+Month, year (date last reviewed)
+
 ## Target audience
 *Please list the target audience for this workshop. For example:*
 -	Application developer
