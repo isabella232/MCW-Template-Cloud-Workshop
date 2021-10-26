@@ -230,7 +230,7 @@ Directions: With your team, answer the following questions and be prepared to pr
 
 **Design**
 
-Directions: With your team, respond to the following questions on a flip chart:
+Directions: With your team, respond to the following questions:
 
 *Title*
 
