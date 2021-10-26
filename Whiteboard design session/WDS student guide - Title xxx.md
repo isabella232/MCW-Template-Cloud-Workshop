@@ -59,7 +59,7 @@ Directions: With all participants in the session, the facilitator/SME presents a
 
 1.  Meet your team members and trainer.
 
-2.  Read all of the directions for steps 1-3 in the student guide.
+2.  Read all the directions for steps 1-3 in the student guide.
 
 3.  As a team, review the following customer case study.
 
