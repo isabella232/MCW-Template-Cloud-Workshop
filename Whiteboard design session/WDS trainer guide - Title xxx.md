@@ -296,43 +296,43 @@ Directions: Reconvene with the larger group to hear the facilitator/SME share th
 
 ## Step 1: Review the customer case study
 
--   Check in with your participants to introduce yourself as the trainer.
+- Check in with your table participants to introduce yourself as the trainer.
 
--   Ask, "What questions do you have about the customer case study?"
+- Ask, "What questions do you have about the customer case study?"
 
--   Briefly review the steps and timeframes of the whiteboard design session.
+- Briefly review the steps and timeframes of the whiteboard design session.
 
--   Ready, set, go! Let participants begin.
+- Ready, set, go! Let the table participants begin.
 
 ## Step 2: Design a proof of concept solution
 
--   Check in with your teams to ensure that they are transitioning from step to step on time.
+- Check in with your tables to ensure that they are transitioning from step to step on time.
 
--   Provide feedback on their responses to the business needs and design.
+- Provide some feedback on their responses to the business needs and design.
 
-    -   Try asking questions first that will lead the participants to discover the answers on their own.
+  - Try asking questions first that will lead the participants to discover the answers on their own.
 
--   Provide feedback for their responses to the customer's objections.
+- Provide feedback for their responses to the customer's objections.
 
-    -   Try asking questions first that will lead the participants to discover the answers on their own.
+  - Try asking questions first that will lead the participants to discover the answers on their own.
 
 ## Step 3: Present the solution
 
--   Determine which groups will be paired together before Step 3 begins.
+- Determine which table will be paired with your table before Step 3 begins.
 
--   For the first round, assign one group as the presenting team and the other as the customer.
+- For the first round, assign one table as the presenting team and the other table as the customer.
 
--   Have the presenting team present their solution to the customer team.
+- Have the presenting team present their solution to the customer team.
 
-    -   Have the customer team provide one objection for the presenting team to respond to.
+  - Have the customer team provide one objection for the presenting team to respond to.
 
-    -   The presentation, objections, and feedback should take no longer than 15 minutes.
+  - The presentation, objections, and feedback should take no longer than 15 minutes.
 
-    -   If needed, the trainer may also provide feedback.
+  - If needed, the trainer may also provide feedback.
 
 ## Wrap-up
 
--   Have participants reconvene with the larger session group to hear the facilitator/SME share the following preferred solution.
+- Have the table participants reconvene with the larger session group to hear the facilitator/SME share the following preferred solution.
 
 ##  Preferred target audience
 
