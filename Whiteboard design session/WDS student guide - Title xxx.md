@@ -43,11 +43,11 @@ Microsoft and the trademarks listed at <https://www.microsoft.com/en-us/legal/in
 
 # \[insert workshop name here\] whiteboard design session student guide
 
-## Abstract and learning objectives 
+## Abstract and learning objectives
 
 \[insert what is trying to be solved for by using this workshop. . . \]
 
-## Step 1: Review the customer case study 
+## Step 1: Review the customer case study
 
 **Outcome**
 
@@ -63,25 +63,21 @@ Directions: With all participants in the session, the facilitator/SME presents a
 
 3. As a team, review the following customer case study.
 
-
 ### Customer situation
 
 \[insert your custom workshop content here . . . \]
 
-
-### Customer needs 
-
-1.  \[insert your custom workshop content here . . . \]
-
-2.  
-
-
-### Customer objections 
+### Customer needs
 
 1.  \[insert your custom workshop content here . . . \]
 
 2.  
 
+### Customer objections
+
+1.  \[insert your custom workshop content here . . . \]
+
+2.  
 
 ### Infographic for common scenarios
 
@@ -153,13 +149,13 @@ Directions:
 
 7. Switch roles and repeat Steps 2-6.
 
-##  Wrap-up 
+## Wrap-up
 
 Timeframe: 15 minutes
 
 Directions: Reconvene with the larger group to hear the facilitator/SME share the preferred solution for the case study.
 
-##  Additional references
+## Additional references
 
 |    |            |
 |----------|:-------------:|
