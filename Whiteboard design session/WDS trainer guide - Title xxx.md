@@ -97,7 +97,7 @@ Analyze your customer's needs.
 
 - Current customer infrastructure and architecture
 
-- Potential issues, objectives and blockers
+- Potential issues, objectives, and blockers
 
 **Outcome**
 
@@ -276,13 +276,13 @@ Directions:
 
 7. Switch roles and repeat Steps 2-6.
 
-##  Wrap-up 
+## Wrap-up
 
 Timeframe: 15 minutes
 
 Directions: Reconvene with the larger group to hear the facilitator/SME share the preferred solution for the case study.
 
-##  Additional references
+## Additional references
 
 |    |            |
 |----------|:-------------:|
@@ -334,7 +334,7 @@ Directions: Reconvene with the larger group to hear the facilitator/SME share th
 
 - Have participants reconvene with the larger session group to hear the facilitator/SME share the following preferred solution.
 
-##  Preferred target audience
+## Preferred target audience
 
 \[insert your custom workshop content here . . . \]
 
