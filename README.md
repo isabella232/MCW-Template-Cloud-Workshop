@@ -26,10 +26,14 @@ In this whiteboard design session, you will work in a group to look at the proce
 
 At the end of this whiteboard design session, you will be better able to [deliver, demonstrate, solve, present, migrate, build, design, architect, construct, modify] ….
 
+Continue to the [Whiteboard design session](https://github.com/microsoft/MCW-XXXXXXXXXXXXXX/Whiteboard%20design%20session) documents folder.
+
 ### Hands-on lab *(this will go in the readme and in the HOL document)*
 In this hands-on lab, you will migrate an existing on-premises enterprise data warehouse to the cloud. You will investigate the current data warehouse to identify any incompatibilities, you will export the data from the on-premises data warehouse and transfer it to Azure Blob Storage. Then you will load the data into the warehouse. Finally, you will integrate the warehouse by migrating ETL to Azure Data Factory and supporting ad-hoc access by implementing Azure Analysis Services.
 
 At the end of this hands-on lab, you will be better able to [deliver, demonstrate, solve, present, migrate, build, design, architect, construct, modify] ….
+
+Continue to the [Hands-on lab](https://github.com/microsoft/MCW-XXXXXXXXX/Hands-on%20lab) documents folder.
 
 ## Azure services and related products
 *Please list the services and products that are highlighted in the workshop. For example:*
